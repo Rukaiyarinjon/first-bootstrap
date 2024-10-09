@@ -1,0 +1,8 @@
+.nav-link {
+  background-color: red;
+  font-size: bold;
+  margin-bottom: 10px;
+}
+.text-bg-dark {
+  background-color: white !important;
+}
